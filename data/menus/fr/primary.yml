@@ -4,7 +4,11 @@ items:
 - title: 'Qui sommes nous ! '
   target: "/actualites/"
   kind: page
-  children: []
+  children:
+  - title: 'Qui sommes nous ! '
+    target: ''
+    kind: blank
+    children: []
 - title: Équipe
   target: "/equipe/"
   kind: page
