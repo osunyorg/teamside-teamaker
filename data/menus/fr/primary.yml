@@ -8,11 +8,7 @@ items:
 - title: 'Qui sommes nous ! '
   target: "/actualites/"
   kind: page
-  children:
-  - title: 'Qui sommes nous ! '
-    target: ''
-    kind: blank
-    children: []
+  children: []
 - title: Organisations
   target: "/organisations/"
   kind: page
