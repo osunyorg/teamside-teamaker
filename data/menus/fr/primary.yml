@@ -5,12 +5,15 @@ items:
   target: "/notre-equipe/"
   kind: page
   children: []
+  file: content/fr/pages/notre-equipe/_index.html
 - title: 'Qui sommes nous ! '
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 
